@@ -1,4 +1,4 @@
 # MyCV
-This is my CV repository showing an HTML template of my skillsets and qualifications.
+This is my CV repository showing an HTML template of my skill sets and qualifications.
 
-You can view my CV [here.]()
+You can view my CV [here.](https://c-cread.github.io/MyCV/)
